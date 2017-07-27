@@ -45,6 +45,12 @@ console.log("Gin and tonic?", drinksGin);
 /*4. Variable with Null values
 Declare variables named completedCodingChallenge, traveledToSpace.  Console log each variable*/
 
+var completedCodingChallenge = null;
+console.log("Geemail Challenge Complete:", completedCodingChallenge);
+
+var traveledToSpace = null;
+console.log("Space Invader:", traveledToSpace);
+
 /*5.  Variables with Array for its value.
 Declare a variable named japanPrefectures and assign the value of any 5 prefectures in Japan.
 Console log the variable 
