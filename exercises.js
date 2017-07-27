@@ -77,6 +77,9 @@ console.log("Awkward Giggles because of:", planets[6]);
 Declare a variable named india and assign the value of 3 popular tourist attractions.  
 Console log the variable.*/
 
+var india = ["Taj Mahal", "Amer Fort", "The Red Fort"];
+console.log("Go to India!", india);
+
 /*8. Adding new elements to an array.
 Add another popular tourist attraction to the india variable from position 1 of the index.
 (hint, it is not the push() method). Console log the variable.*/
