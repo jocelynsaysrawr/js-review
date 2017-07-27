@@ -33,6 +33,15 @@ console.log("Tokyo Olympics:", TokyoOlympicsYear);
 /*3. Variables with Boolean values
 Declare variables named lovesPrepClass, eatsDonuts, drinksGin.  Console log each variable.*/
 
+var lovesPrepClass = true;
+console.log("Do you love Prep Class?", lovesPrepClass);
+
+var eatsDonuts = false;
+console.log("Want a donut?", eatsDonuts);
+
+var drinksGin = false;
+console.log("Gin and tonic?", drinksGin);
+
 /*4. Variable with Null values
 Declare variables named completedCodingChallenge, traveledToSpace.  Console log each variable*/
 
